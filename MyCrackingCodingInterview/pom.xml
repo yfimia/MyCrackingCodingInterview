@@ -21,6 +21,7 @@
         <module>Problem2_4</module>
         <module>Problem2_5</module>
         <module>Problem2_6</module>
+        <module>Problem2_7</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
